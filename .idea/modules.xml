@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ViewPager.iml" filepath="$PROJECT_DIR$/ViewPager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/commonstartpage/commonstartpage.iml" filepath="$PROJECT_DIR$/commonstartpage/commonstartpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpageranimation/viewpageranimation.iml" filepath="$PROJECT_DIR$/viewpageranimation/viewpageranimation.iml" />
     </modules>
   </component>
 </project>

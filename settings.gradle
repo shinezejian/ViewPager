@@ -1,1 +1,1 @@
-include ':app', ':commonstartpage'
+include ':app', ':commonstartpage', ':viewpageranimation'
